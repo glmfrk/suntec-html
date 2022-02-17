@@ -1,0 +1,588 @@
+@media (min-width: 1400px) {
+  .services-section .container {
+    max-width: 1300px;
+    padding: 0px;
+  }
+}
+@media (max-width: 1399px) {
+  .projectsTestimonial-sec {
+    padding: 180px 0px 100px;
+  }
+  .porject-sec {
+    margin-bottom: 130px;
+    padding-bottom: 100px;
+  }
+  .project-caro .owl-nav {
+    left: -60%;
+  }
+  h1 {
+    margin-right: 0;
+  }
+  .testimonial {
+    top: -140px;
+  }
+}
+@media (max-width: 1199px) {
+  .projectsTestimonial-sec {
+    padding: 150px 0px 100px;
+  }
+  .porject-sec {
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+  }
+
+  /* responsive menu styles start */
+  .primary-menu ul a {
+    font-size: 16px;
+    padding: 12px 15px;
+  }
+  .navigation-wrapper .button-primary,
+  .navigation-wrapper .button-outline {
+    font-size: 16px;
+    padding: 14px 20px;
+  }
+  .navigation-wrapper .button-outline {
+    padding: 12px 20px;
+  }
+  /* responsive menu styles end */
+
+  .partner-section {
+    padding-bottom: 120px;
+  }
+
+  /* Services Styles Start */
+  .section-title.v2 h2 {
+    max-width: 670px;
+    text-align: left;
+  }
+  .services-section {
+    padding-bottom: 120px;
+  }
+  .icon-box {
+    padding: 30px;
+  }
+  .icon-box h4 a {
+    font-size: 22px;
+  }
+  /* Services Styles End */
+
+  /* Solar Styles Start */
+  .solar-planes-sec {
+    padding: 100px 0px;
+  }
+
+  /* Solar Styles End */
+  .projectsTestimonial-sec {
+    padding-top: 100px;
+  }
+  /* Project Carousel Styles Start */
+
+  /* Project Carousel Styles End */
+  .footer {
+    padding: 120px 0px;
+  }
+  .footer-column ul a {
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 25px;
+  }
+  .copyright p {
+    top: 140px;
+  }
+  .project-caro .owl-nav {
+    left: -30%;
+    bottom: -10px;
+  }
+}
+@media (max-width: 991px) {
+  .projectsTestimonial-sec {
+    padding: 100px 0px 80px;
+  }
+  .porject-sec {
+    margin-bottom: 115px;
+    padding-bottom: 115px;
+  }
+  h1 {
+    font-size: 69px;
+  }
+  h2 {
+    font-size: 44px;
+    line-height: 56px;
+  }
+
+  /* Partner Styles Start */
+  .hero-banner-section {
+    padding: 180px 0px 80px;
+  }
+  .banner-image {
+    position: relative;
+    width: 100%;
+  }
+  .partner-section {
+    margin-top: 0;
+    padding-bottom: 100px;
+  }
+
+  .call-to-action-banner {
+    padding: 45px 45px;
+    margin-bottom: 50px;
+  }
+  .call-to-action-banner h2 {
+    font-size: 36px;
+    line-height: 48px;
+  }
+  /* Partner Styles End */
+
+  /* Services Styles Start */
+  .services-section {
+    padding-bottom: 80px;
+  }
+  .icon-item-wrapper {
+    gap: 0;
+  }
+  .icon-item-wrapper .column {
+    width: 100%;
+    max-width: 48%;
+    margin-bottom: 30px;
+  }
+  /* Services Styles End */
+
+  /* Solar Styles Start */
+  .solar-planes-sec {
+    padding: 80px 0px;
+  }
+  .solar-content h2 {
+    max-width: 100%;
+  }
+  .solar-content h2 br {
+    display: none;
+  }
+  .solar-content p {
+    margin-right: 0px;
+  }
+  .solar-image {
+    position: relative;
+    top: 50px;
+    right: 0px;
+    width: 100%;
+  }
+  /* Solar Styles End */
+
+  /* Project Caro Styles Start */
+
+  .projectsTestimonial-sec {
+    padding-top: 80px;
+  }
+  .porject-content-box {
+    max-width: 575px;
+    bottom: -110px;
+    right: -65px;
+  }
+  .project-content {
+    padding: 30px;
+  }
+
+  .project-content h3 {
+    font-size: 32px;
+  }
+  .project-content h5 {
+    font-size: 22px;
+    margin: 10px 0px 12px;
+  }
+  .project-content p {
+    font-size: 18px;
+    margin-bottom: 27px;
+  }
+  /* Project Caro Styles End */
+
+  /* Footer Styles Start */
+
+  .footer {
+    padding: 100px 0px;
+  }
+  .footer-logo img {
+    width: 100%;
+  }
+  .copyright p {
+    font-size: 19px;
+  }
+  .footer-column h5 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  /* Footer Styles End */
+  .project-caro .owl-nav {
+    flex-direction: column;
+    left: -27%;
+  }
+}
+@media (max-width: 767px) {
+  h1 {
+    font-size: 59px;
+    line-height: 69px;
+  }
+  h2 {
+    font-size: 36px;
+    line-height: 48px;
+  }
+
+  .logo {
+    max-width: 200px;
+  }
+  .logo img {
+    width: 100%;
+  }
+  .navigation-wrapper .button-primary,
+  .navigation-wrapper .button-outline {
+    padding: 12px;
+  }
+  .navigation-wrapper .button-outline {
+    padding: 10px 12px;
+  }
+  .menu-bar span {
+    font-size: 29px;
+  }
+
+  /* partner styles start */
+  .partner-section {
+    padding-bottom: 70px;
+  }
+  .call-to-action-banner {
+    padding: 40px 25px 40px;
+    margin-bottom: 50px;
+  }
+  .call-to-action-banner h2 {
+    font-size: 32px;
+    line-height: 44px;
+  }
+  .call-to-action-banner p {
+    font-size: 18px;
+  }
+
+  /* partner styles end */
+
+  /* Services Styles Start */
+  .services-section {
+    padding-bottom: 30px;
+  }
+
+  /* Services Styles End */
+
+  /* Solar Styles Start */
+  .solar-planes-sec {
+    padding: 50px 0px;
+  }
+  /* Solar Styles End */
+
+  /* Project Styles Start */
+
+  .projectsTestimonial-sec {
+    padding-top: 50px;
+  }
+  .porject-sec {
+    margin-bottom: 220px;
+  }
+  .project-caro .owl-nav {
+    flex-direction: row;
+    left: 0;
+    bottom: -180px;
+  }
+
+  .porject-content-box {
+    max-width: 500px;
+    bottom: -150px;
+    right: 0px;
+  }
+  .project-content {
+    padding: 25px;
+  }
+
+  /* Project Styles End */
+  .shape-box {
+    height: 350px;
+  }
+
+  .button-group .button-outline {
+    padding: 14px 30px;
+  }
+  .button-primary {
+    padding: 16px 30px;
+    font-size: 16px;
+    line-height: 28px;
+  }
+  .project-caro .owl-nav {
+    left: 50%;
+    bottom: -150px;
+    transform: translateX(-50%);
+  }
+  .project-caro .owl-nav button {
+    width: 65px;
+    height: 65px;
+  }
+  .project-caro .owl-nav button img {
+    width: 65%;
+  }
+  .project-caro .owl-nav button svg {
+    width: 32px;
+  }
+  .testimonial .icon-box {
+    margin: auto;
+  }
+  .shape-box {
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+  }
+  .hero-banner-section .button-outline::before {
+    width: 148.28px;
+    height: 59px;
+  }
+  .hero-banner-section .button-outline::after {
+    width: 144.28px;
+    height: 55px;
+  }
+  .footer {
+    padding: 70px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .projectsTestimonial-sec {
+    padding: 70px 0px 50px;
+  }
+  .porject-sec {
+    margin-bottom: 130px;
+    padding-bottom: 150px;
+  }
+  h1 {
+    font-size: 48px;
+    line-height: 60px;
+  }
+  h2 {
+    font-size: 27px;
+    line-height: 42px;
+  }
+
+  .navigation-wrapper .button-primary,
+  .navigation-wrapper .button-outline {
+    font-size: 14px;
+  }
+  .navigation-wrapper .button-outline {
+    padding: 10px 12px;
+    margin-right: 7px;
+  }
+  .menu-bar {
+    margin-left: 10px;
+  }
+  .menu-bar span {
+    font-size: 29px;
+  }
+  .column-content {
+    padding: 10px 15px;
+  }
+  .section-title {
+    margin-bottom: 40px;
+  }
+  .section-title.v2 {
+    justify-content: center;
+  }
+  .section-title.v2 h2 {
+    text-align: center;
+  }
+  .icon-box {
+    padding: 30px;
+    padding-right: 10px;
+    text-align: center;
+  }
+  .icon-box .icon {
+    margin: auto;
+  }
+  .column-content.solar-content {
+    padding: 10px 15px;
+  }
+  .column-content.solar-content * {
+    text-align: center;
+  }
+
+  .services-section .container {
+    padding: 0px 15px;
+  }
+  .icon-item-wrapper .column {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .solar-content h2 {
+    font-size: 29px;
+  }
+  .solar-content p {
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .section-title p {
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .solar-content .button-primary {
+    max-width: 189px;
+    margin: auto;
+    display: block;
+  }
+  .testimonial .icon-box p {
+    font-size: 16px;
+    text-align: left;
+  }
+  .testimonial {
+    top: -100px;
+  }
+
+  .testimonial svg {
+    width: 30px;
+    height: 30px;
+  }
+  .client-info h5 {
+    font-size: 20px;
+  }
+  .shape-box {
+    height: 315px;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+  }
+  .footer {
+    padding: 50px 30px 40px;
+  }
+  .footer-logo {
+    margin-bottom: 80px;
+  }
+  .footer-logo img {
+    width: auto;
+  }
+  .copyright {
+    margin-bottom: 30px;
+  }
+  .copyright p {
+    line-height: 1.5;
+    position: relative;
+    top: 0px;
+  }
+  .footer-column {
+    margin-top: 40px;
+  }
+  .footer-column ul a {
+    margin-bottom: 12px;
+  }
+  .testimonial .owl-nav {
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+  }
+  .testimonial .owl-nav button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .testimonial .owl-nav button img {
+    width: 75%;
+  }
+}
+@media (max-width: 479px) {
+  .navigation-wrapper .button-primary,
+  .navigation-wrapper .button-outline {
+    display: none;
+  }
+  .hero-banner-section .button-primary,
+  .hero-banner-section .button-outline {
+    padding: 15px 22px;
+    font-size: 18px;
+  }
+  .hero-banner-section .button-outline {
+    padding: 13px 22px;
+  }
+
+  .porject-content-box {
+    bottom: -160px;
+  }
+  .project-content {
+    padding: 20px 15px;
+    padding-right: 5px;
+  }
+  .project-content h3 {
+    font-size: 27px;
+  }
+  .project-content h5 {
+    font-size: 20px;
+  }
+  .project-content p {
+    font-size: 16px;
+  }
+  .slider-number span {
+    font-size: 16px;
+  }
+  .range {
+    height: 5px;
+  }
+  .range::before {
+    height: 5px;
+  }
+  .project-caro .owl-nav {
+    left: 50%;
+    bottom: -130px;
+    transform: translateX(-50%);
+  }
+  .project-caro .owl-nav button {
+    width: 45px;
+    height: 45px;
+  }
+  .project-caro .owl-nav button img {
+    width: 65%;
+  }
+  .project-caro .owl-nav button svg {
+    width: 24px;
+  }
+  .porject-sec {
+    margin-bottom: 180px;
+  }
+  .solar-content p {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  .column-content p,
+  .section-title p,
+  p {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  h1 {
+    font-size: 34px;
+    line-height: 44px;
+  }
+  .section-title.v2 h2,
+  .call-to-action-banner h2,
+  .solar-content h2,
+  h2 {
+    font-size: 27px;
+    line-height: 42px;
+  }
+}
+@media (max-width: 375px) {
+  .hero-banner-section .button-primary,
+  .hero-banner-section .button-outline {
+    padding: 12px 16px;
+    font-size: 16px;
+  }
+
+  .hero-banner-section .button-outline::before {
+    width: 130px;
+    height: 54px;
+  }
+  .hero-banner-section .button-outline::after {
+    width: 126px;
+    height: 50px;
+  }
+}
